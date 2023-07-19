@@ -1,0 +1,26 @@
+body {
+    background-position: center;
+    background-image: cover;
+  }
+h1 {
+    position: absolute;
+    text-align: right;
+    top: 580px;  
+    color: #111e95;
+  }
+
+  p {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    color: #eef4f2;
+    font-size: 30px;
+    background:rgb(33, 33, 162) ;
+      }
+  #button{
+        position: fixed;
+        right: 60%;
+        bottom: 90px;
+      
+      }
